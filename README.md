@@ -1,0 +1,2 @@
+# golearningproject
+Basic Go code
